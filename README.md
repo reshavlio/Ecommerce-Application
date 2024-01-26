@@ -1,3 +1,3 @@
 # Movix-MovieStore
-live demo: https://shopify-ecommerce-hpstrfu83-reshavlios-projects.vercel.app
+live demo: https://shopify-ecommerce-eta.vercel.app/
 Fully functional and responsive movie store website.
